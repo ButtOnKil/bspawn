@@ -4,5 +4,4 @@ execute as @s at @s store result score #z bspawn-data run data get entity @s Pos
 execute as @s at @s store result score #rx bspawn-data run data get entity @s Rotation[0] 1
 execute as @s at @s store result score #ry bspawn-data run data get entity @s Rotation[1] 1
 setworldspawn ~ ~ ~
-
 tellraw @s {"text":"Le spawn a bien été défini.","color":"green"}
