@@ -2,7 +2,7 @@
 
 BSpawn est un Datapack Minecraft permettant de définir un spawn et s'y téléporter sans avoir besoin d'être OP.
 
-_Version minecraft recommandée : 1.16+_
+_Version recommandée : 1.16+_
 
 ## Commandes
 
