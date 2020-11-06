@@ -11,4 +11,4 @@ _Version recommandée : 1.16+_
 
 ## TODO
 - Gestion des dimensions
-- Messages personnalisés
+
